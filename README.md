@@ -37,7 +37,7 @@ n = int(input())
 
 ## Output:
 
-![solution2](https://user-images.githubusercontent.com/118787261/208959982-3c6d25b9-007a-4781-b902-5ade97d87141.png)
+![solution2](kabilan23.png)
 
 
 
