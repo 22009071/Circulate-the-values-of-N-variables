@@ -23,7 +23,4 @@ end the program
    
 ~~~
 
-## Output:
-![output](1.png)
-## Result:
-the variables are rotated sucessfully.
+
