@@ -19,12 +19,8 @@ print the rotated list
 ### Step 6: 
 end the program
 ## Program:
-~~~
-def circulate():
-    n=int(input())
-    l=[10,20,30,40,50,60]
-    l=l[n:]+l[:n]
-    print("After circulating the values are:",l)
+~
+   
 ~~~
 
 ## Output:
