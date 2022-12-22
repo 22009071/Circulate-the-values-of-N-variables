@@ -25,9 +25,9 @@ End the program
 ## Program:
 
 ```
-#Program to circulate N values.
-#Developed by: Sathish R
-#RegisterNumber:22006204
+#Program to circulate 
+#Developed by: kabilan T
+#RegisterNumber:22009071
 def circulate():
     circul = l[n:]+l[:n]
     print('After circulating the values are:', circul)
